@@ -16,7 +16,7 @@ Swift_DependencyContainer::getInstance()
   -> withDependencies(array(
     'mime.headerset',
 //    'mime.qpcontentencoder',
-    'mime.base64contentencoder',
+    'mime.7bitcontentencoder',
     'cache',
     'mime.grammar',
     'properties.charset'
